@@ -6,6 +6,8 @@ download here: demo_video\speakBuddy.mp4
 
 YT link: https://youtube.com/shorts/WIxpIc-X04Q?feature=share
 
+![Alt text](demo_video\demo_image.png "demo image")
+
 ---
 
 ## Detailed Description to Use This Repo in Cloud GPU
