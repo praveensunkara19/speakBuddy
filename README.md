@@ -15,20 +15,20 @@ For this **SpeakBuddy** project, I have used the **RunPod GPU instance (RTX 4000
 If you want to run or improve this project:
 - Connect your **RunPod GPU instance** to **VS Code** for faster execution and model performance.
 - Follow the setup steps below.
-
+YT link: https://youtu.be/Q5r0SayNWg0?si=Xcl0IGVxZ1C3vpxx
 ---
 
 ## Working Model of SpeakBuddy
 
 This is a general-purpose **talking AI model** that supports both **speech** and **text input**.  
 The architecture is built using open-source models:
-
+```
  Functionality        - Model Used 
 
  Speech-to-Text (STT) - Whisper 
  Text-to-Speech (TTS) - Coqui-TTS 
  LLM Text Generation  - LLaMA-3 (via Groq Platform) 
-
+```
 ---
 
 ## Setup Instructions
