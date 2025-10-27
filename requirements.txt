@@ -1,0 +1,30 @@
+#STT
+openai-whisper
+sounddevice
+#portaudio19-dev
+#python3-pyaudio
+#sudo apt-get update
+#sudo apt-get install -y portaudio19-dev
+pydub
+
+#sudo apt install -y portaudio19-dev pyaudio
+python-dotenv
+
+#TTS --python=3.9
+TTS
+bangla==0.0.2
+
+
+#LLM
+groq
+langchain
+
+#Avatar
+#Sadtalker
+
+#web app
+
+fastapi
+uvicorn
+python-multipart
+
